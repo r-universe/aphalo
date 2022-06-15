@@ -1,0 +1,38 @@
+[
+  {
+    "package": "gginnards",
+    "oncran": true
+  },
+  {
+    "package": "ggpmisc",
+    "oncran": true
+  },
+  {
+    "package": "ggpp",
+    "oncran": true
+  },
+  {
+    "package": "ggspectra",
+    "oncran": true
+  },
+  {
+    "package": "learnrbook",
+    "oncran": true
+  },
+  {
+    "package": "photobiology",
+    "oncran": true
+  },
+  {
+    "package": "photobiologyInOut",
+    "oncran": true
+  },
+  {
+    "package": "photobiologyLamps",
+    "oncran": true
+  },
+  {
+    "package": "photobiologyLEDs",
+    "oncran": true
+  }
+]

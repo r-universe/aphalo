@@ -3,3 +3,48 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gginnards"]
+	path = gginnards
+	url = https://github.com/aphalo/gginnards
+	shallow = true
+	registered = true
+[submodule "ggpmisc"]
+	path = ggpmisc
+	url = https://github.com/aphalo/ggpmisc
+	shallow = true
+	registered = true
+[submodule "ggpp"]
+	path = ggpp
+	url = https://github.com/aphalo/ggpp
+	shallow = true
+	registered = true
+[submodule "ggspectra"]
+	path = ggspectra
+	url = https://github.com/aphalo/ggspectra
+	shallow = true
+	registered = true
+[submodule "learnrbook"]
+	path = learnrbook
+	url = https://github.com/aphalo/learnrbook-pkg
+	shallow = true
+	registered = true
+[submodule "photobiology"]
+	path = photobiology
+	url = https://github.com/aphalo/photobiology
+	shallow = true
+	registered = true
+[submodule "photobiologyInOut"]
+	path = photobiologyInOut
+	url = https://github.com/aphalo/photobiologyinout
+	shallow = true
+	registered = true
+[submodule "photobiologyLamps"]
+	path = photobiologyLamps
+	url = https://github.com/aphalo/photobiologylamps
+	shallow = true
+	registered = true
+[submodule "photobiologyLEDs"]
+	path = photobiologyLEDs
+	url = https://github.com/aphalo/photobiologyleds
+	shallow = true
+	registered = true

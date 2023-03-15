@@ -1,5 +1,25 @@
 [
   {
+    "package": "gginnards",
+    "oncran": true
+  },
+  {
+    "package": "ggpmisc",
+    "oncran": true
+  },
+  {
+    "package": "ggpp",
+    "oncran": true
+  },
+  {
+    "package": "ggspectra",
+    "oncran": true
+  },
+  {
+    "package": "learnrbook",
+    "oncran": true
+  },
+  {
     "package": "photobiology",
     "oncran": true
   },
@@ -8,31 +28,11 @@
     "oncran": true
   },
   {
-    "package": "ggspectra",
-    "oncran": true
-  },
-  {
-    "package": "photobiologyLEDs",
-    "oncran": true
-  },
-  {
-    "package": "learnrbook",
-    "oncran": true
-  },
-  {
     "package": "photobiologyLamps",
     "oncran": true
   },
   {
-    "package": "ggpmisc",
-    "oncran": true
-  },
-  {
-    "package": "gginnards",
-    "oncran": true
-  },
-  {
-    "package": "ggpp",
+    "package": "photobiologyLEDs",
     "oncran": true
   }
 ]

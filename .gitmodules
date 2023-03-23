@@ -33,6 +33,11 @@
 	url = https://github.com/aphalo/photobiology
 	shallow = true
 	registered = true
+[submodule "photobiologyFilters"]
+	path = photobiologyFilters
+	url = https://github.com/cran/photobiologyFilters
+	shallow = true
+	registered = true
 [submodule "photobiologyInOut"]
 	path = photobiologyInOut
 	url = https://github.com/aphalo/photobiologyinout
@@ -46,5 +51,25 @@
 [submodule "photobiologyLEDs"]
 	path = photobiologyLEDs
 	url = https://github.com/aphalo/photobiologyleds
+	shallow = true
+	registered = true
+[submodule "photobiologyPlants"]
+	path = photobiologyPlants
+	url = https://github.com/cran/photobiologyPlants
+	shallow = true
+	registered = true
+[submodule "photobiologySensors"]
+	path = photobiologySensors
+	url = https://github.com/cran/photobiologySensors
+	shallow = true
+	registered = true
+[submodule "photobiologySun"]
+	path = photobiologySun
+	url = https://github.com/cran/photobiologySun
+	shallow = true
+	registered = true
+[submodule "photobiologyWavebands"]
+	path = photobiologyWavebands
+	url = https://github.com/cran/photobiologyWavebands
 	shallow = true
 	registered = true

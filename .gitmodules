@@ -55,7 +55,7 @@
 	registered = true
 [submodule "photobiologyPlants"]
 	path = photobiologyPlants
-	url = https://github.com/cran/photobiologyPlants
+	url = https://github.com/aphalo/photobiologyplants
 	shallow = true
 	registered = true
 [submodule "photobiologySensors"]

@@ -26,12 +26,12 @@
 [submodule "photobiologyInOut"]
 	path = photobiologyInOut
 	url = https://github.com/aphalo/photobiologyinout
-[submodule "photobiologyLamps"]
-	path = photobiologyLamps
-	url = https://github.com/aphalo/photobiologylamps
 [submodule "photobiologyLEDs"]
 	path = photobiologyLEDs
 	url = https://github.com/aphalo/photobiologyleds
+[submodule "photobiologyLamps"]
+	path = photobiologyLamps
+	url = https://github.com/aphalo/photobiologylamps
 [submodule "photobiologyPlants"]
 	path = photobiologyPlants
 	url = https://github.com/aphalo/photobiologyplants

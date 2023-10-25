@@ -37,10 +37,10 @@
 	url = https://github.com/aphalo/photobiologyplants
 [submodule "photobiologySensors"]
 	path = photobiologySensors
-	url = https://github.com/cran/photobiologySensors
+	url = https://github.com/aphalo/photobiologysensors
 [submodule "photobiologySun"]
 	path = photobiologySun
 	url = https://github.com/cran/photobiologySun
 [submodule "photobiologyWavebands"]
 	path = photobiologyWavebands
-	url = https://github.com/cran/photobiologyWavebands
+	url = https://github.com/aphalo/photobiologywavebands

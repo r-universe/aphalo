@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/aphalo/aphalo.r-universe.dev
 	branch = HEAD
 [submodule "gginnards"]
 	path = gginnards
@@ -16,31 +16,37 @@
 	url = https://github.com/aphalo/ggspectra
 [submodule "learnrbook"]
 	path = learnrbook
-	url = https://github.com/aphalo/learnrbook-pkg
+	url = https://github.com/aphalo/learnrbook
+[submodule "ooaquire"]
+	path = ooaquire
+	url = https://github.com/aphalo/ooacquire
 [submodule "photobiology"]
 	path = photobiology
 	url = https://github.com/aphalo/photobiology
 [submodule "photobiologyFilters"]
 	path = photobiologyFilters
-	url = https://github.com/cran/photobiologyFilters
+	url = https://github.com/aphalo/photobiologyFilters
 [submodule "photobiologyInOut"]
 	path = photobiologyInOut
-	url = https://github.com/aphalo/photobiologyinout
+	url = https://github.com/aphalo/photobiologyInOut
 [submodule "photobiologyLEDs"]
 	path = photobiologyLEDs
-	url = https://github.com/aphalo/photobiologyleds
+	url = https://github.com/aphalo/photobiologyLEDs
 [submodule "photobiologyLamps"]
 	path = photobiologyLamps
-	url = https://github.com/aphalo/photobiologylamps
+	url = https://github.com/aphalo/photobiologyLamps
 [submodule "photobiologyPlants"]
 	path = photobiologyPlants
-	url = https://github.com/aphalo/photobiologyplants
+	url = https://github.com/aphalo/photobiologyPlants
 [submodule "photobiologySensors"]
 	path = photobiologySensors
-	url = https://github.com/aphalo/photobiologysensors
+	url = https://github.com/aphalo/photobiologySensors
 [submodule "photobiologySun"]
 	path = photobiologySun
-	url = https://github.com/cran/photobiologySun
+	url = https://github.com/aphalo/photobiologySun
 [submodule "photobiologyWavebands"]
 	path = photobiologyWavebands
-	url = https://github.com/aphalo/photobiologywavebands
+	url = https://github.com/aphalo/photobiologyWavebands
+[submodule "rOmniDriver"]
+	path = rOmniDriver
+	url = https://github.com/aphalo/rOmniDriver

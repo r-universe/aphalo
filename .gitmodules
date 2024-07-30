@@ -50,3 +50,6 @@
 [submodule "rOmniDriver"]
 	path = rOmniDriver
 	url = https://github.com/aphalo/rOmniDriver
+[submodule "yoctopuce"]
+	path = yoctopuce
+	url = https://github.com/aphalo/yoctopuce

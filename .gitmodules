@@ -44,6 +44,9 @@
 [submodule "photobiologySun"]
 	path = photobiologySun
 	url = https://github.com/aphalo/photobiologySun
+[submodule "photobiologySunCalc"]
+	path = photobiologySunCalc
+	url = https://github.com/aphalo/photobiologySunCalc
 [submodule "photobiologyWavebands"]
 	path = photobiologyWavebands
 	url = https://github.com/aphalo/photobiologyWavebands

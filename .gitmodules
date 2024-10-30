@@ -53,9 +53,9 @@
 [submodule "rOmniDriver"]
 	path = rOmniDriver
 	url = https://github.com/aphalo/rOmniDriver
-[submodule "reumetsat"]
-	path = reumetsat
-	url = https://github.com/aphalo/reumetsat
+[submodule "surfaceuv"]
+	path = surfaceuv
+	url = https://github.com/aphalo/surfaceuv
 [submodule "yoctopuce"]
 	path = yoctopuce
 	url = https://github.com/aphalo/yoctopuce

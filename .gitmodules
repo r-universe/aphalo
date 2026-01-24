@@ -53,9 +53,12 @@
 [submodule "rOmniDriver"]
 	path = rOmniDriver
 	url = https://github.com/aphalo/rOmniDriver
+[submodule "rYoctoPuceAPI"]
+	path = rYoctoPuceAPI
+	url = https://github.com/aphalo/rYoctoPuceAPI
+[submodule "rYoctoPuceInOut"]
+	path = rYoctoPuceInOut
+	url = https://github.com/aphalo/rYoctoPuceInOut
 [submodule "surfaceuv"]
 	path = surfaceuv
 	url = https://github.com/aphalo/surfaceuv
-[submodule "yoctopuce"]
-	path = yoctopuce
-	url = https://github.com/aphalo/yoctopuce

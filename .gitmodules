@@ -29,6 +29,9 @@
 [submodule "photobiologyFilters"]
 	path = photobiologyFilters
 	url = https://github.com/aphalo/photobiologyFilters
+[submodule "photobiologyFlecks"]
+	path = photobiologyFlecks
+	url = https://github.com/aphalo/photobiologyFlecks
 [submodule "photobiologyInOut"]
 	path = photobiologyInOut
 	url = https://github.com/aphalo/photobiologyInOut
